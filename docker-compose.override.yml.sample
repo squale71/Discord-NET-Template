@@ -1,0 +1,8 @@
+# This is a sample docker compose override file. Rename this file to `docker-compose.override.yml` 
+# and replace the values in this file for any environment variables you do not want to be committed.
+# This typically applies to secrets.
+
+services:
+  discordnettemplate:
+    environment:
+    - token={TOKENGOESHERE} # Go to discord to fetch this token.
