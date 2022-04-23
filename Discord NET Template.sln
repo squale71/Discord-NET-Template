@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord NET Template", "Discord NET Template\Discord NET Template.csproj", "{7298C971-B10B-4E36-AB05-AE14E1B27F83}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{2F92D703-7693-4142-8EAA-0D0012B0F3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7298C971-B10B-4E36-AB05-AE14E1B27F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7298C971-B10B-4E36-AB05-AE14E1B27F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7298C971-B10B-4E36-AB05-AE14E1B27F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7298C971-B10B-4E36-AB05-AE14E1B27F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F92D703-7693-4142-8EAA-0D0012B0F3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F92D703-7693-4142-8EAA-0D0012B0F3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F92D703-7693-4142-8EAA-0D0012B0F3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F92D703-7693-4142-8EAA-0D0012B0F3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7B3C56-C548-4EF4-BB4A-D78E8D3CA55D}
+	EndGlobalSection
+EndGlobal

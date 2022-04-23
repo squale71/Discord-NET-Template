@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  discordnettemplate:
+    image: ${DOCKER_REGISTRY-}discordnettemplate
+    build:
+      context: .
+      dockerfile: Discord NET Template/Dockerfile

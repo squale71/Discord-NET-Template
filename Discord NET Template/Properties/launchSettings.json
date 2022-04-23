@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Discord NET Template": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
